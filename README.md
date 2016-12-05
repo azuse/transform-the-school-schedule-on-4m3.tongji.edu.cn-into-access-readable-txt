@@ -2,6 +2,7 @@
 
 for example:
   transform <br>
+  ```
               	<tr><br>
                   <td>00200402</td>\br>
                   <td style="text-align:left">成功心理训练</td><br>
@@ -17,7 +18,9 @@ for example:
                   <td style="text-align:left"></td><br>
                   <td style="text-align:left">类别:自然 </td><br>
                 </tr><br>
+```             
              <br>
-   into <br>
+   into 
+   ```
             00200402,成功心理训练,2,1.5,考查,1-17,陈增堂,教授,120,117,一:9-10(北301),,类别:自然 ,<br>
-        <br>
+   ```
